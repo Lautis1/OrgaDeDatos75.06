@@ -1,0 +1,249 @@
+Country,iso2,iso3
+Afghanistan,AF,AFG
+Albanie,AL,ALB
+Allemagne,DE,DEU
+Andorra,AD,AND
+Angola,AO,AGO
+Anguilla,AI,AIA
+L'Antarctique,AQ,ATA
+Antigua et Barbuda,AG,ATG
+Arabie Saoudite,SA,SAU
+Algérie,DZ,DZA
+Argentine,AR,ARG
+L'Arménie,AM,ARM
+Aruba,AW,ABW
+Australie,AU,AUS
+Autriche,AT,AUT
+L'Azerbaïdjan,AZ,AZE
+Belgique,BE,BEL
+Bahamas,BS,BHS
+Bahreïn,BH,BHR
+Bangladesh,BD,BGD
+Barbade,BB,BRB
+Belize,BZ,BLZ
+Bénin,BJ,BEN
+Le Bhoutan,BT,BTN
+Biélorussie,BY,BLR
+Myanmar,MM,MMR
+Bolivie,BO,BOL
+Bosnie-Herzégovine,BA,BIH
+Botswana,BW,BWA
+Brésil,BR,BRA
+Brunei,BN,BRN
+Bulgarie,BG,BGR
+Burkina Faso,BF,BFA
+Burundi,BI,BDI
+Cap-Vert,CV,CPV
+Cambodge,KH,KHM
+Cameroun,CM,CMR
+Canada,CA,CAN
+Tchad,TD,TCD
+Chili,CL,CHL
+Chine,CN,CHN
+Chypre,CY,CYP
+Cité du Vatican,VA,VAT
+Colombie,CO,COL
+Comores,KM,COM
+République du Congo,CG,COG
+République démocratique du Congo,CD,COD
+Corée du Nord,KP,PRK
+Corée du Sud,KR,KOR
+Côte-d'Ivoire,CI,CIV
+Costa Rica,CR,CRI
+Croatie,HR,HRV
+Cuba,CU,CUB
+Curaçao,CW,CWU
+Danemark,DK,DNK
+Dominique,DM,DMA
+Equateur,EC,ECU
+Egypte,EG,EGY
+El Salvador,SV,SLV
+Emirats Arabes Unis,AE,ARE
+Erythrée,ER,ERI
+Slovaquie,SK,SVK
+Slovénie,SI,SVN
+Espagne,ES,ESP
+États-Unis d'Amérique,US,USA
+L'Estonie,EE,EST
+Ethiopie,ET,ETH
+Philippines,PH,PHL
+Finlande,FI,FIN
+Fidji,FJ,FJI
+France,FR,FRA
+Gabon,GA,GAB
+Gambie,GM,GMB
+Géorgie,GE,GEO
+Ghana,GH,GHA
+Gibraltar,GI,GIB
+Grenade,GD,GRD
+Grèce,GR,GRC
+Groenland,GL,GRL
+Guadeloupe,GP,GLP
+Guam,GU,GUM
+Guatemala,GT,GTM
+Guyane française,GF,GUF
+Guernesey,GG,GGY
+Guinée,GN,GIN
+Guinée Equatoriale,GQ,GNQ
+Guinée-Bissau,GW,GNB
+Guyane,GY,GUY
+Haïti,HT,HTI
+Honduras,HN,HND
+Hong Kong,HK,HKG
+Hongrie,HU,HUN
+Inde,IN,IND
+Indonésie,ID,IDN
+Iran,IR,IRN
+Irak,IQ,IRQ
+Irlande,IE,IRL
+Bouvet Island,BV,BVT
+Ile de Man,IM,IMN
+Christmas Island,CX,CXR
+Île de Norfolk,NF,NFK
+Islande,IS,ISL
+Bermudes,BM,BMU
+Iles Caïmans,KY,CYM
+Cocos (Keeling,CC,CCK
+Iles Cook,CK,COK
+Îles Åland,AX,ALA
+Iles Féro,FO,FRO
+Géorgie du Sud et les Îles Sandwich du Sud,GS,SGS
+Les îles Heard et McDonald,HM,HMD
+Maldives,MV,MDV
+Iles Falkland (Malvinas,FK,FLK
+Iles Mariannes du Nord,MP,MNP
+Iles Marshall,MH,MHL
+Iles Pitcairn,PN,PCN
+Iles Salomon,SB,SLB
+Iles Turques et Caïques,TC,TCA
+États-Unis Îles mineures éloignées,UM,UMI
+Iles Vierges,VG,VGB
+Îles Vierges américaines,VI,VIR
+Israël,IL,ISR
+Italie,IT,ITA
+Jamaïque,JM,JAM
+Japon,JP,JPN
+Maillot,JE,JEY
+Jordan,JO,JOR
+Le Kazakhstan,KZ,KAZ
+Kenya,KE,KEN
+Kirghizstan,KG,KGZ
+Kiribati,KI,KIR
+Koweït,KW,KWT
+Liban,LB,LBN
+Laos,LA,LAO
+Lesotho,LS,LSO
+La Lettonie,LV,LVA
+Liberia,LR,LBR
+Libye,LY,LBY
+Liechtenstein,LI,LIE
+La Lituanie,LT,LTU
+Luxembourg,LU,LUX
+Mexique,MX,MEX
+Monaco,MC,MCO
+Macao,MO,MAC
+Macédoine,MK,MKD
+Madagascar,MG,MDG
+Malaisie,MY,MYS
+Malawi,MW,MWI
+Mali,ML,MLI
+Malte,MT,MLT
+Maroc,MA,MAR
+Martinique,MQ,MTQ
+Iles Maurice,MU,MUS
+Mauritanie,MR,MRT
+Mayotte,YT,MYT
+Federados Estados de,FM,FSM
+Moldavie,MD,MDA
+Mongolie,MN,MNG
+Monténégro,ME,MNE
+Montserrat,MS,MSR
+Mozambique,MZ,MOZ
+Namibie,NA,NAM
+Nauru,NR,NRU
+Népal,NP,NPL
+Nicaragua,NI,NIC
+Niger,NE,NER
+Nigeria,NG,NGA
+Niou,NU,NIU
+Norvège,NO,NOR
+Nouvelle-Calédonie,NC,NCL
+Nouvelle-Zélande,NZ,NZL
+Oman,OM,OMN
+Pays-Bas,NL,NLD
+Pakistan,PK,PAK
+Palau,PW,PLW
+La Palestine,PS,PSE
+Panama,PA,PAN
+Papouasie-Nouvelle-Guinée,PG,PNG
+Paraguay,PY,PRY
+Pérou,PE,PER
+Polynésie française,PF,PYF
+Pologne,PL,POL
+Portugal,PT,PRT
+Porto Rico,PR,PRI
+Qatar,QA,QAT
+Royaume-Uni,GB,GBR
+République Centrafricaine,CF,CAF
+République Tchèque,CZ,CZE
+République Dominicaine,DO,DOM
+Soudan du Sud,SS,SSD
+Réunion,RE,REU
+Rwanda,RW,RWA
+Roumanie,RO,ROU
+La Russie,RU,RUS
+Sahara Occidental,EH,ESH
+Samoa,WS,WSM
+Les Samoa américaines,AS,ASM
+Saint-Barthélemy,BL,BLM
+Saint Kitts et Nevis,KN,KNA
+San Marino,SM,SMR
+Saint-Martin (partie française),MF,MAF
+Saint-Pierre-et-Miquelon,PM,SPM
+Saint-Vincent et Grenadines,VC,VCT
+Ascensión y Tristan de Acuña,SH,SHN
+Sainte-Lucie,LC,LCA
+Sao Tomé et Principe,ST,STP
+Sénégal,SN,SEN
+Serbie,RS,SRB
+Les Seychelles,SC,SYC
+Sierra Leone,SL,SLE
+Singapour,SG,SGP
+Saint-Martin,SX,SMX
+Syrie,SY,SYR
+Somalie,SO,SOM
+Sri Lanka,LK,LKA
+Afrique du Sud,ZA,ZAF
+Soudan,SD,SDN
+Suède,SE,SWE
+Suisse,CH,CHE
+Surinam,SR,SUR
+Svalbard et Jan Mayen,SJ,SJM
+Swaziland,SZ,SWZ
+Le Tadjikistan,TJ,TJK
+Thaïlande,TH,THA
+Taiwan,TW,TWN
+Tanzanie,TZ,TZA
+Territoire britannique de l'océan Indien,IO,IOT
+Terres australes françaises,TF,ATF
+Timor-Oriental,TL,TLS
+Togo,TG,TGO
+Tokélaou,TK,TKL
+Tonga,TO,TON
+Trinidad et Tobago,TT,TTO
+Tunisie,TN,TUN
+Le Turkménistan,TM,TKM
+Turquie,TR,TUR
+Tuvalu,TV,TUV
+L'Ukraine,UA,UKR
+Ouganda,UG,UGA
+Uruguay,UY,URY
+L'Ouzbékistan,UZ,UZB
+Vanuatu,VU,VUT
+Venezuela,VE,VEN
+Vietnam,VN,VNM
+Wallis et Futuna,WF,WLF
+Yémen,YE,YEM
+Djibouti,DJ,DJI
+Zambie,ZM,ZMB
+Zimbabwe,ZW,ZWE
